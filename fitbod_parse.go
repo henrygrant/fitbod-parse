@@ -15,7 +15,7 @@ type FitbodRecord struct {
 	Timestamp         string
 	ExerciseName      string
 	Reps              int
-	Weight					  float64
+	Weight            float64
 	Duration          float64
 	Distance          float64
 	Incline           float64
