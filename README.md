@@ -1,2 +1,4 @@
-# fitbod-parse
-Parser for fitbod data exports written in go
+# Fitbod Parse
+Parses data from fitbod data exports into Golang structs
+
+Some csv code taken from https://stackoverflow.com/questions/20768511/unmarshal-csv-record-into-struct-in-go
